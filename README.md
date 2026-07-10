@@ -59,8 +59,8 @@ Real-time chat application, live on Vercel.
 
 If you're hiring for remote roles in fullstack, ML, or DevOps — or just want to talk about something interesting you're building:
 
-📬 **[Your email here]**
-💼 **[Your LinkedIn here]**
+📬 **meetprofessional392005@gmail.com**
+💼 **meetparmar392005**
 
 ---
 
